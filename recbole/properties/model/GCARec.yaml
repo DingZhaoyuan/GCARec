@@ -1,0 +1,10 @@
+n_layers: 3
+ssl_tau: 0.2
+reg_weight: 1e-5 #1e-5 1e-4
+ssl_weight: 0.05 #*0.05 >0.1
+embedding_size: 64
+
+drop_edge_rate_1: 0.1
+#drop_edge_rate_2: 0.2
+drop_feature_rate_1: 0.9
+#drop_feature_rate_2: 0.4

@@ -1,0 +1,6 @@
+embedding_size: 64
+n_layers: 2
+ssl_tau: 0.2
+reg_weight: 1e-5
+ssl_weight: 0.05
+#drop_ratio: 0.8

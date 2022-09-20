@@ -1,0 +1,10 @@
+
+
+# Common Features
+USER_ID_FIELD: customer_id
+ITEM_ID_FIELD: product_id
+
+# Selectively Loading
+load_col:
+    inter: [customer_id, product_id]
+    # the others
